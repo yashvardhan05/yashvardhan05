@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashvardhan Nikam</h1>
 <h3 align="center">Front End developer | Competitive Programmer | Open Source</h3>
-(https://user-images.githubusercontent.com/69848853/133916992-83934f5f-18a5-4833-a747-ba4c8f759af6.png)
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashvardhan05" alt="yashvardhan05" /></a> </p>
