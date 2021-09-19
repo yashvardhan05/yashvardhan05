@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashvardhan Nikam</h1>
 <h3 align="center">Front End developer | Competitive Programmer | Open Source</h3>
+![Christmas Garlands and Mistletoe Twitter Header (1)](https://user-images.githubusercontent.com/69848853/133916971-d5c10040-52eb-4aae-94eb-a3c9fd26e328.png)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashvardhan05" alt="yashvardhan05" /></a> </p>
 
