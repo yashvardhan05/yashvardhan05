@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/yashistweting" target="blank"><img src="https://img.shields.io/twitter/follow/yashistweting?logo=twitter&style=for-the-badge" alt="yashistweting" /></a> </p>
 
-- 
-
 - 📫 How to reach me **Yashvardhannikam65541@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
